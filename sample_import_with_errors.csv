@@ -1,0 +1,9 @@
+date,app,category,device,minutes,notes
+2026-11-22,Notion,Productivity,Laptop,45,good row
+2026-11-22,Spotify,Entertainment,Phone,1h30m,good row (duration format)
+2026-11-24,Twitter,Social,Phone,20,future date
+2026-13-45,Slack,Communication,Laptop,30,impossible date
+2026-11-22,,Social,Phone,20,blank app
+2026-11-22,Chess,Games,Toaster,20,unknown device
+2026-11-22,Telegram,Communication,Phone,abc,non-numeric minutes
+2026-11-22,Podcast,Entertainment,Phone,5000,over 24h

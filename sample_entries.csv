@@ -1,0 +1,49 @@
+id,date,app,category,device,minutes,notes
+50539df8,2026-11-03,Reddit,Social,Tablet,40,study break
+3e316cf3,2026-11-04,Reddit,Social,Tablet,33,study break
+6e920c40,2026-11-04,Duolingo,Education,Phone,9,
+cc6a2549,2026-11-05,Duolingo,Education,Phone,12,
+e6cd6e12,2026-11-05,YouTube,Entertainment,TV,98,study break
+edffb65f,2026-11-05,Instagram,Social,Phone,31,study break
+48e4f93b,2026-11-06,Zoom,Communication,Laptop,45,
+89ef55c9,2026-11-06,VS Code,Productivity,Laptop,93,before bed
+ce3ff23f,2026-11-06,Coursera,Education,Laptop,106,
+e8f0a080,2026-11-06,Reddit,Social,Tablet,39,
+c97a68f4,2026-11-08,Coursera,Education,Laptop,96,
+ce6d3341,2026-11-08,YouTube,Entertainment,Phone,71,
+0fb3e988,2026-11-09,Coursera,Education,Laptop,23,before bed
+f23462d7,2026-11-10,Google Docs,Productivity,Laptop,43,before bed
+18eecbcd,2026-11-11,YouTube,Entertainment,Phone,38,
+c1d0b394,2026-11-11,Coursera,Education,Laptop,67,before bed
+74753381,2026-11-12,Reddit,Social,Tablet,58,
+e6dbe10d,2026-11-12,Instagram,Social,Phone,58,study break
+1bed9990,2026-11-13,Zoom,Communication,Laptop,34,commute
+a7e3447c,2026-11-13,YouTube,Entertainment,TV,82,study break
+da38e2b7,2026-11-13,YouTube,Entertainment,TV,104,study break
+4ac0765d,2026-11-14,Coursera,Education,Laptop,83,commute
+6e71dd42,2026-11-14,Netflix,Entertainment,TV,67,before bed
+8e581f64,2026-11-14,Zoom,Communication,Laptop,25,before bed
+d1a4eeb8,2026-11-14,Valorant,Games,Desktop,80,
+7d31954e,2026-11-15,Duolingo,Education,Phone,12,
+0c2a20d3,2026-11-16,Reddit,Social,Tablet,36,study break
+ddf0c36f,2026-11-16,YouTube,Entertainment,Phone,72,study break
+147f31a0,2026-11-17,VS Code,Productivity,Laptop,141,before bed
+06de9a56,2026-11-18,VS Code,Productivity,Laptop,168,commute
+361ca58f,2026-11-18,YouTube,Entertainment,Phone,56,
+43f95320,2026-11-20,Google Docs,Productivity,Laptop,64,study break
+75580714,2026-11-20,Netflix,Entertainment,TV,48,
+b77ac01e,2026-11-20,Remote Desktop,Productivity,Desktop,480,boundary: exactly at the 8h anomaly threshold
+d5e11c61,2026-11-20,Valorant,Games,Desktop,63,
+e3f95c93,2026-11-20,Duolingo,Education,Phone,13,
+0fd9c261,2026-11-21,WhatsApp,Communication,Phone,31,before bed
+10cd7413,2026-11-21,Netflix,Entertainment,TV,35,commute
+57fb7f33,2026-11-21,YouTube,Entertainment,TV,37,
+8acf9e63,2026-11-21,WhatsApp,Communication,Phone,34,
+cc33a1ae,2026-11-21,Kindle,Education,Tablet,120,
+453a1604,2026-11-22,Binge Watching,Entertainment,TV,600,anomalous: 10h session
+59a99dd3,2026-11-22,Netflix,Entertainment,TV,94,
+bc1ee953,2026-11-22,Valorant,Games,Desktop,72,
+f7c27792,2026-11-22,Netflix,Entertainment,TV,103,before bed
+f87739fa,2026-11-22,Zoom,Communication,Laptop,42,before bed
+1b7f2ce6,2026-11-23,Calculator,Other,Phone,1,minimum value
+3abc22d9,2026-11-23,YouTube,Entertainment,TV,63,study break

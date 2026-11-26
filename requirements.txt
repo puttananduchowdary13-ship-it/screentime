@@ -1,0 +1,2 @@
+matplotlib>=3.7
+python-fasthtml>=0.12

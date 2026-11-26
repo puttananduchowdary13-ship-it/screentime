@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "a7e3447c",
+      "date": "2026-11-13",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 82,
+      "notes": "study break"
+    },
+    {
+      "id": "43f95320",
+      "date": "2026-11-20",
+      "app": "Google Docs",
+      "category": "Productivity",
+      "device": "Laptop",
+      "minutes": 64,
+      "notes": "study break"
+    },
+    {
+      "id": "f7c27792",
+      "date": "2026-11-22",
+      "app": "Netflix",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 103,
+      "notes": "before bed"
+    },
+    {
+      "id": "8acf9e63",
+      "date": "2026-11-21",
+      "app": "WhatsApp",
+      "category": "Communication",
+      "device": "Phone",
+      "minutes": 34,
+      "notes": ""
+    },
+    {
+      "id": "ce3ff23f",
+      "date": "2026-11-06",
+      "app": "Coursera",
+      "category": "Education",
+      "device": "Laptop",
+      "minutes": 106,
+      "notes": ""
+    },
+    {
+      "id": "50539df8",
+      "date": "2026-11-03",
+      "app": "Reddit",
+      "category": "Social",
+      "device": "Tablet",
+      "minutes": 40,
+      "notes": "study break"
+    },
+    {
+      "id": "bc1ee953",
+      "date": "2026-11-22",
+      "app": "Valorant",
+      "category": "Games",
+      "device": "Desktop",
+      "minutes": 72,
+      "notes": ""
+    },
+    {
+      "id": "59a99dd3",
+      "date": "2026-11-22",
+      "app": "Netflix",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 94,
+      "notes": ""
+    },
+    {
+      "id": "4ac0765d",
+      "date": "2026-11-14",
+      "app": "Coursera",
+      "category": "Education",
+      "device": "Laptop",
+      "minutes": 83,
+      "notes": "commute"
+    },
+    {
+      "id": "e8f0a080",
+      "date": "2026-11-06",
+      "app": "Reddit",
+      "category": "Social",
+      "device": "Tablet",
+      "minutes": 39,
+      "notes": ""
+    },
+    {
+      "id": "d5e11c61",
+      "date": "2026-11-20",
+      "app": "Valorant",
+      "category": "Games",
+      "device": "Desktop",
+      "minutes": 63,
+      "notes": ""
+    },
+    {
+      "id": "48e4f93b",
+      "date": "2026-11-06",
+      "app": "Zoom",
+      "category": "Communication",
+      "device": "Laptop",
+      "minutes": 45,
+      "notes": ""
+    },
+    {
+      "id": "edffb65f",
+      "date": "2026-11-05",
+      "app": "Instagram",
+      "category": "Social",
+      "device": "Phone",
+      "minutes": 31,
+      "notes": "study break"
+    },
+    {
+      "id": "f23462d7",
+      "date": "2026-11-10",
+      "app": "Google Docs",
+      "category": "Productivity",
+      "device": "Laptop",
+      "minutes": 43,
+      "notes": "before bed"
+    },
+    {
+      "id": "cc6a2549",
+      "date": "2026-11-05",
+      "app": "Duolingo",
+      "category": "Education",
+      "device": "Phone",
+      "minutes": 12,
+      "notes": ""
+    },
+    {
+      "id": "ddf0c36f",
+      "date": "2026-11-16",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "Phone",
+      "minutes": 72,
+      "notes": "study break"
+    },
+    {
+      "id": "6e71dd42",
+      "date": "2026-11-14",
+      "app": "Netflix",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 67,
+      "notes": "before bed"
+    },
+    {
+      "id": "d1a4eeb8",
+      "date": "2026-11-14",
+      "app": "Valorant",
+      "category": "Games",
+      "device": "Desktop",
+      "minutes": 80,
+      "notes": ""
+    },
+    {
+      "id": "75580714",
+      "date": "2026-11-20",
+      "app": "Netflix",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 48,
+      "notes": ""
+    },
+    {
+      "id": "c97a68f4",
+      "date": "2026-11-08",
+      "app": "Coursera",
+      "category": "Education",
+      "device": "Laptop",
+      "minutes": 96,
+      "notes": ""
+    },
+    {
+      "id": "10cd7413",
+      "date": "2026-11-21",
+      "app": "Netflix",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 35,
+      "notes": "commute"
+    },
+    {
+      "id": "1bed9990",
+      "date": "2026-11-13",
+      "app": "Zoom",
+      "category": "Communication",
+      "device": "Laptop",
+      "minutes": 34,
+      "notes": "commute"
+    },
+    {
+      "id": "6e920c40",
+      "date": "2026-11-04",
+      "app": "Duolingo",
+      "category": "Education",
+      "device": "Phone",
+      "minutes": 9,
+      "notes": ""
+    },
+    {
+      "id": "7d31954e",
+      "date": "2026-11-15",
+      "app": "Duolingo",
+      "category": "Education",
+      "device": "Phone",
+      "minutes": 12,
+      "notes": ""
+    },
+    {
+      "id": "f87739fa",
+      "date": "2026-11-22",
+      "app": "Zoom",
+      "category": "Communication",
+      "device": "Laptop",
+      "minutes": 42,
+      "notes": "before bed"
+    },
+    {
+      "id": "8e581f64",
+      "date": "2026-11-14",
+      "app": "Zoom",
+      "category": "Communication",
+      "device": "Laptop",
+      "minutes": 25,
+      "notes": "before bed"
+    },
+    {
+      "id": "e6dbe10d",
+      "date": "2026-11-12",
+      "app": "Instagram",
+      "category": "Social",
+      "device": "Phone",
+      "minutes": 58,
+      "notes": "study break"
+    },
+    {
+      "id": "e3f95c93",
+      "date": "2026-11-20",
+      "app": "Duolingo",
+      "category": "Education",
+      "device": "Phone",
+      "minutes": 13,
+      "notes": ""
+    },
+    {
+      "id": "147f31a0",
+      "date": "2026-11-17",
+      "app": "VS Code",
+      "category": "Productivity",
+      "device": "Laptop",
+      "minutes": 141,
+      "notes": "before bed"
+    },
+    {
+      "id": "ce6d3341",
+      "date": "2026-11-08",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "Phone",
+      "minutes": 71,
+      "notes": ""
+    },
+    {
+      "id": "0fb3e988",
+      "date": "2026-11-09",
+      "app": "Coursera",
+      "category": "Education",
+      "device": "Laptop",
+      "minutes": 23,
+      "notes": "before bed"
+    },
+    {
+      "id": "89ef55c9",
+      "date": "2026-11-06",
+      "app": "VS Code",
+      "category": "Productivity",
+      "device": "Laptop",
+      "minutes": 93,
+      "notes": "before bed"
+    },
+    {
+      "id": "74753381",
+      "date": "2026-11-12",
+      "app": "Reddit",
+      "category": "Social",
+      "device": "Tablet",
+      "minutes": 58,
+      "notes": ""
+    },
+    {
+      "id": "57fb7f33",
+      "date": "2026-11-21",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 37,
+      "notes": ""
+    },
+    {
+      "id": "0c2a20d3",
+      "date": "2026-11-16",
+      "app": "Reddit",
+      "category": "Social",
+      "device": "Tablet",
+      "minutes": 36,
+      "notes": "study break"
+    },
+    {
+      "id": "06de9a56",
+      "date": "2026-11-18",
+      "app": "VS Code",
+      "category": "Productivity",
+      "device": "Laptop",
+      "minutes": 168,
+      "notes": "commute"
+    },
+    {
+      "id": "3abc22d9",
+      "date": "2026-11-23",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 63,
+      "notes": "study break"
+    },
+    {
+      "id": "da38e2b7",
+      "date": "2026-11-13",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 104,
+      "notes": "study break"
+    },
+    {
+      "id": "3e316cf3",
+      "date": "2026-11-04",
+      "app": "Reddit",
+      "category": "Social",
+      "device": "Tablet",
+      "minutes": 33,
+      "notes": "study break"
+    },
+    {
+      "id": "c1d0b394",
+      "date": "2026-11-11",
+      "app": "Coursera",
+      "category": "Education",
+      "device": "Laptop",
+      "minutes": 67,
+      "notes": "before bed"
+    },
+    {
+      "id": "18eecbcd",
+      "date": "2026-11-11",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "Phone",
+      "minutes": 38,
+      "notes": ""
+    },
+    {
+      "id": "0fd9c261",
+      "date": "2026-11-21",
+      "app": "WhatsApp",
+      "category": "Communication",
+      "device": "Phone",
+      "minutes": 31,
+      "notes": "before bed"
+    },
+    {
+      "id": "361ca58f",
+      "date": "2026-11-18",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "Phone",
+      "minutes": 56,
+      "notes": ""
+    },
+    {
+      "id": "e6cd6e12",
+      "date": "2026-11-05",
+      "app": "YouTube",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 98,
+      "notes": "study break"
+    },
+    {
+      "id": "1b7f2ce6",
+      "date": "2026-11-23",
+      "app": "Calculator",
+      "category": "Other",
+      "device": "Phone",
+      "minutes": 1,
+      "notes": "minimum value"
+    },
+    {
+      "id": "453a1604",
+      "date": "2026-11-22",
+      "app": "Binge Watching",
+      "category": "Entertainment",
+      "device": "TV",
+      "minutes": 600,
+      "notes": "anomalous: 10h session"
+    },
+    {
+      "id": "cc33a1ae",
+      "date": "2026-11-21",
+      "app": "Kindle",
+      "category": "Education",
+      "device": "Tablet",
+      "minutes": 120,
+      "notes": ""
+    },
+    {
+      "id": "b77ac01e",
+      "date": "2026-11-20",
+      "app": "Remote Desktop",
+      "category": "Productivity",
+      "device": "Desktop",
+      "minutes": 480,
+      "notes": "boundary: exactly at the 8h anomaly threshold"
+    }
+  ]
+}
